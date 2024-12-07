@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AREESH JABBAR</h1>
 <h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRIYANSHU2026&label=Profile%20views&color=0e75b6&style=flat" alt="PRIYANSHU2026" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areesh74&label=Profile%20views&color=0e75b6&style=flat" alt="areesh74" /> </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026" alt="PRIYANSHU2026" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areesh74" alt="areesh74" /></a> </p>
 
 - 🔭 I’m currently working in a *Research Project*
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
-<a href="https://facebook.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=PRIYANSHU2026" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/areesh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Areesh Jabbar" height="30" width="40" /></a>
+<a href="https://instagram.com/areesh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Areesh Jabbar" height="30" width="40" /></a>
+<a href="https://facebook.com/areesh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Areesh Jabbar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=areesh74" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
 <summary><b>⚒️Tech Stack⚒️</b></summary><br>
@@ -68,18 +68,14 @@
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="powerbi" title="powerbi"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-light.svg" alt="tableau" title="tableau"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" title="kaggle"/></code>
-    <i class="fa-brands fa-kaggle"></i>
-</details> 
 </div>
 
 <h2>Github Stats📊</h2>
 <br>
 <div align=center>
-<img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRIYANSHU2026&theme=github"/>
-<!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHU2026&layout=donut&border_radius=10"/> -->
-<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRIYANSHU2026&theme=github"/>
-<!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRIYANSHU2026&theme=github" alt="readme stats" />
-<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRIYANSHU2026&theme=github" alt="readme stats" />
-<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRIYANSHU2026&theme=github" alt="readme stats" />
-<!-- <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PRIYANSHU2026&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+<img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areesh74&theme=github"/>
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areesh74&theme=github"/>
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areesh74&theme=github" alt="readme stats" />
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areesh74&theme=github" alt="readme stats" />
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=areesh74&theme=github" alt="readme stats" />
+</div>
