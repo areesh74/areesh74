@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity, Problem solving, Devloper*
 
-- 📫 How to reach me *techarena955@gmail.com*
+- 📫 How to reach me *areeshjabbar0902@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
